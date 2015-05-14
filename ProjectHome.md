@@ -1,0 +1,1 @@
+animated walking character, interact with 2D game space, obstacles
